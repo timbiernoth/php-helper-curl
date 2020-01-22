@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Curl.class.php
+ *
+ * @author     Tim Biernoth
+ * @link       https://timbiernoth.de/
+ */
+
 class Curl
 {
     public function getContent($url)
